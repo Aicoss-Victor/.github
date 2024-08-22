@@ -1,12 +1,25 @@
-## Hi there 👋
+> ### 👑 Victor <br />
 
-<!--
+## MEMBER
 
-**Here are some ideas to get you started:**
+<table align = "center">
+  <tr align = "center">
+    <td>Prompt Engineering</td>
+    <td>Prompt Engineering</td>
+    <td>Frontend, Backend, Prompt Engineering</td>
+    <td>Frontend, Fine-tuning</td>
+  </tr>
+  <tr align = "center">
+    <td><a href="https://github.com/ben020410"><img src="https://avatars.githubusercontent.com/u/169597137?v=4" width=200></a></td>
+    <td><a href="https://github.com/hajin82"><img src="https://avatars.githubusercontent.com/u/100694954?v=4" width=200></a></td>
+    <td><a href="https://github.com/JungbeomLee"><img src="https://avatars.githubusercontent.com/u/55937102?v=4" width=200></a></td>
+    <td><a href="https://github.com/veronica2550"><img src="https://avatars.githubusercontent.com/u/128062548?v=4" width=200></a></td>
+  </tr>
+  <tr align = "center">
+    <td><a href = "https://github.com/ben020410">나세민</a></td>
+    <td><a href = "https://github.com/hajin82">서하진</a></td>
+    <td><a href = "https://github.com/JungbeomLee">이정범</a></td>
+    <td><a href = "https://github.com/veronica2550">김민경</a></td>
+  </tr>
+</table>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
