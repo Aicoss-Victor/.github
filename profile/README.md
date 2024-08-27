@@ -24,5 +24,7 @@
 </table>
 
 <br />
-## 📌 About This Project
-![vid](https://github.com/user-attachments/assets/9c7edf99-2650-4edd-aae3-7de6bf37dd25)
+## 📌About This Project
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c7edf99-2650-4edd-aae3-7de6bf37dd25">
+</p>
