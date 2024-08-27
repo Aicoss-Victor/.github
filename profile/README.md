@@ -26,5 +26,6 @@
 <br />
 ## 📌About This Project
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c7edf99-2650-4edd-aae3-7de6bf37dd25">
+  <img src="![vid](https://github.com/user-attachments/assets/9c7edf99-2650-4edd-aae3-7de6bf37dd25)
+">
 </p>
