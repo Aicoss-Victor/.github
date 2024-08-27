@@ -6,7 +6,7 @@
   <tr align = "center">
     <td>Prompt Engineering</td>
     <td>Prompt Engineering</td>
-    <td>Frontend, Backend, Prompt Engineering</td>
+    <td>Backend, Prompt Engineering, Frontend</td>
     <td>Frontend, Fine-tuning</td>
   </tr>
   <tr align = "center">
