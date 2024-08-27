@@ -23,6 +23,6 @@
   </tr>
 </table>
 
-<br/>
+<br />
 ## 📌 About This Project
-<a href="https://veronica2550.my.canva.site/victor">
+![vid](https://github.com/user-attachments/assets/9c7edf99-2650-4edd-aae3-7de6bf37dd25)
