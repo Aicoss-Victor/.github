@@ -22,10 +22,8 @@
     <td><a href = "https://github.com/veronica2550">김민경</a></td>
   </tr>
 </table>
-
 <br />
+
 ## 📌 About This Project
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/68633ea7-dbe0-4c13-a004-9754f5ae79c2" width="600" />
-</p>
+![Alt Text](https://github.com/user-attachments/assets/68633ea7-dbe0-4c13-a004-9754f5ae79c2)
