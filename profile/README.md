@@ -27,3 +27,9 @@
 ## 📌 About This Project | 멀티모달모델을 활용한 맞춤형 캐리커쳐 생성 서비스 제작: 오늘은 우리 아이가 동화책 주인공
 
 ![Alt Text](https://github.com/user-attachments/assets/68633ea7-dbe0-4c13-a004-9754f5ae79c2)
+<br>
+
+## 📌 Architecture & Flow
+<br>
+
+![diagram drawio](https://github.com/user-attachments/assets/211595e4-d46c-4578-82e9-7edf8475af21)
