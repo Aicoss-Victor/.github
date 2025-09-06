@@ -6,8 +6,8 @@
   <tr align = "center">
     <td>Prompt Engineering</td>
     <td>Prompt Engineering</td>
-    <td>Backend, Prompt Engineering, Frontend</td>
-    <td>Frontend, Fine-tuning</td>
+    <td>Back-end, Prompt Engineering, Frontend</td>
+    <td>Front-end, Model Customization</td>
   </tr>
   <tr align = "center">
     <td><a href="https://github.com/ben020410"><img src="https://avatars.githubusercontent.com/u/169597137?v=4" width=200></a></td>
